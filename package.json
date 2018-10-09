@@ -1,0 +1,43 @@
+{
+  "name": "responsive_challenges",
+  "version": "1.0.0",
+  "description": "implmentation of the responsive web design projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonniebigodes/fcc_responsive_projects.git"
+  },
+  "keywords": [
+    "fcc",
+    "responsive",
+    "gatsby"
+  ],
+  "author": "jonniebigodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonniebigodes/fcc_responsive_projects/issues"
+  },
+  "homepage": "https://github.com/jonniebigodes/fcc_responsive_projects#readme",
+  "dependencies": {
+    "gatsby": "^2.0.19",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-helmet": "^5.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.9.1",
+    "gh-pages": "^1.1.0",
+    "prettier": "^1.12.1"
+  }
+}
